@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  toolbox.vcxproj -> C:\Users\Berkan\documents\visual studio 2015\Projects\opencv-projects\toolbox\Debug\toolbox.exe
+  toolbox.vcxproj -> C:\Users\Berkan\documents\visual studio 2015\Projects\opencv-projects\toolbox\Debug\toolbox.pdb (Partial PDB)
